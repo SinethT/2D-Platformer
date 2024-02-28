@@ -1,2 +1,2 @@
 print("hello world")
-print("this is a sample file for version control")
+print("This is a sample file for version control")
